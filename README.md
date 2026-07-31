@@ -39,7 +39,7 @@ Python · FastAPI · NetworkX · OpenCV · YOLOv3 · Scikit-learn · LLM Integra
 ---
 
 ### Connect with me
-- LinkedIn: [لینک لینکدینت]
-- Email: [ایمیلت]
+- LinkedIn: [linkedin.com/in/hanieh-khaleoghli-70453619a]
+- Email: [h.khaleoghli@gmail.com]
 
 *Currently seeking fully funded PhD opportunities in AI / Optimization / Graph ML (Europe, Canada, Australia, or elsewhere).*
