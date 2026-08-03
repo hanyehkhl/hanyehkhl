@@ -92,40 +92,22 @@
 
 ## 🐍 Contribution Snake
 
+<!-- Works immediately from main/assets. After Actions runs once, you can switch to the output-branch URL below. -->
 <p align="center">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/hanyehkhl/hanyehkhl/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img alt="Snake animation" src="./assets/github-contribution-grid-snake-slow.svg" width="100%"/>
 </p>
 
 <details>
-<summary>⚡ How this snake is generated</summary>
+<summary>⚡ Generate your live snake with GitHub Actions</summary>
 
-`.github/workflows/snake.yml` runs on a schedule and pushes the generated svg to the `output` branch:
+1. Add `.github/workflows/snake.yml` (included in this project)
+2. Enable Actions on the `hanyehkhl/hanyehkhl` repo
+3. Run the workflow once (Actions → Generate Snake → Run workflow)
+4. After it finishes, you can change the image URL to:
 
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: hanyehkhl
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+`https://raw.githubusercontent.com/hanyehkhl/hanyehkhl/output/github-contribution-grid-snake.svg`
+
+That URL only works **after** the `output` branch exists — right now it 404s, which is why the snake was blank.
 
 </details>
 
@@ -142,9 +124,10 @@ jobs:
 
 > I like turning messy inputs — files, images, raw text — into clean, typed data an LLM can actually work with.
 
-## 💬 Random Quote
+## 💬 Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote"/>
+> Talk is cheap. Show me the code.  
+> — **Linus Torvalds**
 
 ---
 
