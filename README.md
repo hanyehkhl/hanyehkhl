@@ -1,100 +1,161 @@
-<!-- ========== HEADER ========== -->
-<div align="center">
-  
-  <img alt="Header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=180&section=header&text=Hi%2C%20I'm%20Hanieh%20%F0%9F%91%8B&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20AI%20Engineer%20%7C%20FastAPI%20%7C%20Pydantic%20%7C%20LLMs&descAlignY=55&descSize=16" />
-
-  <br/>
-
-  <a href="https://git.io/typing-svg">
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+APIs+with+FastAPI;Pydantic+for+Clean+Data+Models;Exploring+LLMs+%26+RAG;Vision+%26+File-based+AI;Open+Source+%26+Always+Learning" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://www.linkedin.com/in/hanieh-khaleoghli-70453619a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:h.khaleoghli@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/hanyehkhl"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
-
----
-
-### 🔥 Featured Projects
-
-| Project | Description | Stack | Link |
-|---------|-------------|-------|------|
-| **Galaxy Search Community** | Community detection با GbSA + داشبورد FastAPI و LLM assistant | `FastAPI` `LLM` `GbSA` | [Repo](https://github.com/hanyehkhl/galaxy-based-search-community) |
-| **Product Assistant** | API هوشمند محصول با چت LLM، سرچ و recommendation | `FastAPI` `OpenAI` `Pydantic` | [Repo](https://github.com/hanyehkhl/product-assistant) |
-| **YOLOv3 Car Counter** | تشخیص و شمارش خودرو با computer vision | `Python` `YOLOv3` `OpenCV` | [Repo](https://github.com/hanyehkhl/yolov3-car-counter) |
-| **GbSA Community Detection** | پیاده‌سازی الگوریتم GbSA + داشبورد و LLM assistant با dual theme | `FastAPI` `LLM` `Python` | [Repo](https://github.com/hanyehkhl/gbsa-community-detection) |
-
----
-
-### 👨‍💻 About Me
-
-سلام! من **Hanieh** هستم — یه backend / AI developer که عاشق ساختن APIهای تمیز، سریع و قابل‌اتکاست.
-
-الان بیشتر وقتم رو روی **FastAPI** و **Pydantic** می‌ذارم و با **LLMها** کار می‌کنم — از ساخت agent و **RAG** روی فایل و داکیومنت گرفته تا کار با **تصویر** و computer vision، و طراحی schemaهای قوی با Pydantic برای داده‌های LLM.
-
-علاقه‌مندم به:
-- طراحی APIهای production-ready
-- تایپ‌سیفتی و validation قوی با Pydantic
-- اتصال مدل‌های زبانی به سیستم‌های واقعی (فایل، داده، تصویر)
-- معماری‌های تمیز و قابل‌مقیاس
-
-همیشه در حال یادگیری چیزهای جدیدم و از همکاری روی پروژه‌های open source استقبال می‌کنم.
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=python,fastapi,django,docker,postgres,linux,git,github,vscode" />
+<!-- Banner: edit colors/text at https://github.com/kyechan99/capsule-render -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hanieh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FastAPI%20%7C%20LLMs%20%7C%20Pydantic%20%7C%20RAG&descAlignY=55&descSize=20" alt="Hanieh" width="100%"/>
 </p>
 
+<h1 align="center">
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> I'm Hanieh Khaleoghli
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+%26+AI+Engineer;Building+APIs+with+FastAPI;Pydantic+for+Clean+Data+Models;RAG+over+Files+%26+Documents;Vision+%26+Image+Processing" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/hanyehkhl"><img src="https://img.shields.io/badge/GitHub-hanyehkhl-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/hanieh-khaleoghli-70453619a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:h.khaleoghli@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=hanyehkhl&style=for-the-badge&color=58A6FF" alt="Profile views"/>
+</p>
+
+---
+
+## 👋 About Me
+
+- 👩‍💻 Backend / AI developer building clean, fast, reliable APIs
+- 🚀 Right now focused on **FastAPI**, **Pydantic**, and **LLM**-powered systems
+- 📄 Working on **RAG** over files and documents — search, retrieval, and grounded answers
+- 🖼️ Also working on **image processing** and connecting vision to LLM pipelines
+- 🧱 Designing strong **Pydantic** schemas for reliable LLM inputs/outputs
+- 🌱 Always learning — agent design, retrieval, and clean backend architecture
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,opencv,docker,postgres,git,github,linux,vscode&perline=9" alt="Skill icons"/>
+</p>
+
+### Tools I use a lot
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## ⭐ Featured Projects
+
+| Project | What it does |
+|---|---|
+| 🌌 [galaxy-based-search-community](https://github.com/hanyehkhl/galaxy-based-search-community) | GbSA for community detection + FastAPI dashboard + LLM assistant |
+| 🧩 [gbsa-community-detection](https://github.com/hanyehkhl/gbsa-community-detection) | Community detection with GbSA, dual themes, and LLM chat |
+| 🛒 [product-assistant](https://github.com/hanyehkhl/product-assistant) | Product API with LLM chat, search, and recommendations |
+| 🚗 [yolov3-car-counter](https://github.com/hanyehkhl/yolov3-car-counter) | Detect and count cars with YOLOv3 |
+
+---
+
+## 📊 GitHub Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hanyehkhl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hanyehkhl&show_icons=true&theme=default&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hanyehkhl&show_icons=true&theme=tokyonight&hide_border=true" alt="Hanieh's GitHub stats"/>
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hanyehkhl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hanyehkhl&layout=compact&theme=default&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanyehkhl&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</picture>
+
 <br/>
 
-**Currently focused on:**
-`FastAPI` · `Pydantic v2` · `LLMs` · `RAG` · `LangChain` · `OpenCV / Vision` · `Async Python`
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hanyehkhl&theme=tokyonight&hide_border=true&background=0D1117"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=hanyehkhl&theme=default&hide_border=true"/>
+    <img height="150" src="https://streak-stats.demolab.com?user=hanyehkhl&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  </picture>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 🐍 Contribution Snake
 
-<div align="center">
-  <img alt="GitHub Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=hanyehkhl&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img alt="Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanyehkhl&layout=compact&theme=radical&hide_border=true" />
-</div>
+<p align="center">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/hanyehkhl/hanyehkhl/output/github-contribution-grid-snake.svg" width="100%"/>
+</p>
 
-<br/>
+<details>
+<summary>⚡ How this snake is generated</summary>
 
-<div align="center">
-  <img alt="Streak Stats" src="https://streak-stats.demolab.com/?user=hanyehkhl&theme=radical&hide_border=true" />
-</div>
+`.github/workflows/snake.yml` runs on a schedule and pushes the generated svg to the `output` branch:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: hanyehkhl
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 ---
 
-### 🐍 Contribution Snake
+## 🧠 Currently Learning
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hanyehkhl/hanyehkhl/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
-</div>
+- 📄 RAG pipelines over files and documents
+- 🤖 LLM-powered agents and tool-using assistants
+- 🖼️ Image processing workflows connected to LLMs
+- 🧱 Advanced Pydantic v2 schema design
 
----
+## 🎲 Fun Fact
 
-### 💬 Quote
+> I like turning messy inputs — files, images, raw text — into clean, typed data an LLM can actually work with.
 
-> Talk is cheap. Show me the code.  
-> — **Linus Torvalds**
+## 💬 Random Quote
 
----
-
-### 📈 Profile Views
-
-![Profile views](https://komarev.com/ghpvc/?username=hanyehkhl&color=blueviolet&style=flat-square)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote"/>
 
 ---
 
-<div align="center">
-  <img alt="Footer banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=100&section=footer"/>
-</div>
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/hanyehkhl"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hanieh-khaleoghli-70453619a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:h.khaleoghli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="footer"/>
+</p>
