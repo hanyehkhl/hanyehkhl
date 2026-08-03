@@ -1,7 +1,7 @@
 <!-- ========== HEADER ========== -->
 <div align="center">
   
-  <img alt="Header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=180&section=header&text=Backend%20%26%20AI%20Engineer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FastAPI%20%7C%20Pydantic%20%7C%20LLMs%20%7C%20RAG&descAlignY=55&descSize=18" />
+  <img alt="Header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=180&section=header&text=Hi%2C%20I'm%20Hanieh%20%F0%9F%91%8B&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20AI%20Engineer%20%7C%20FastAPI%20%7C%20Pydantic%20%7C%20LLMs&descAlignY=55&descSize=16" />
 
   <br/>
 
@@ -32,7 +32,7 @@
 
 ### 👨‍💻 About Me
 
-سلام! من **Hanyeh** هستم — یه backend / AI developer که عاشق ساختن APIهای تمیز، سریع و قابل‌اتکاست.
+سلام! من **Hanieh** هستم — یه backend / AI developer که عاشق ساختن APIهای تمیز، سریع و قابل‌اتکاست.
 
 الان بیشتر وقتم رو روی **FastAPI** و **Pydantic** می‌ذارم و با **LLMها** کار می‌کنم — از ساخت agent و **RAG** روی فایل و داکیومنت گرفته تا کار با **تصویر** و computer vision، و طراحی schemaهای قوی با Pydantic برای داده‌های LLM.
 
@@ -77,7 +77,7 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="./assets/github-contribution-grid-snake-slow.svg" alt="Snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/hanyehkhl/hanyehkhl/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </div>
 
 ---
