@@ -15,8 +15,8 @@
 
 <p align="center">
   <a href="https://github.com/hanyehkhl"><img src="https://img.shields.io/badge/GitHub-hanyehkhl-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/hanieh-khaleoghli-70453619a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:h.khaleoghli@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=hanyehkhl&style=for-the-badge&color=58A6FF" alt="Profile views"/>
 </p>
 
@@ -100,7 +100,7 @@
   Until then, this public demo snake shows the idea:
 -->
 <p align="center">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img alt="Snake animation" src="./assets/github-contribution-grid-snake-slow.svg" width="100%"/>
 </p>
 
 <details>
@@ -151,10 +151,12 @@ Then replace the snake image URL with:
 
 > I like building dashboards around algorithms — so research doesn't stay stuck in notebooks.
 
-## 💬 Random Quote
+## 💬 Quote
 
-<!-- Refreshes when GitHub caches refresh; powered by quotable -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote"/>
+> Talk is cheap. Show me the code.  
+> — **Linus Torvalds**
+> Given enough eyeballs, all bugs are shallow
+> — **Eric S. Raymond**
 
 ---
 
@@ -162,8 +164,8 @@ Then replace the snake image URL with:
 
 <p align="center">
   <a href="https://github.com/hanyehkhl"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/hanieh-khaleoghli-70453619a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hanieh-khaleoghli-70453619a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:h.khaleoghli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
