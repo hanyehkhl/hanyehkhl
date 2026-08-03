@@ -1,148 +1,171 @@
+<!-- Banner: edit colors/text at https://github.com/kyechan99/capsule-render -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hanyeh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20AI%20%7C%20Backend&descAlignY=55&descSize=20" alt="Hanyeh banner" width="100%"/>
+</p>
+
 <h1 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Hanyeh
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> I'm Hanyeh
 </h1>
 
-<div align="center">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+Backend+Engineer;Computer+Vision+Enthusiast;Open+Source+Explorer;Building+Practical+AI+Systems" alt="Typing SVG" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Python+Developer;AI+%26+Backend+Engineer;Computer+Vision+Enthusiast;Building+Practical+AI+Systems;FastAPI+%7C+Django+%7C+Deep+Learning)](https://git.io/typing-svg)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hanyehkhl)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-
-</div>
+<p align="center">
+  <a href="https://github.com/hanyehkhl"><img src="https://img.shields.io/badge/GitHub-hanyehkhl-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=hanyehkhl&style=for-the-badge&color=58A6FF" alt="Profile views"/>
+</p>
 
 ---
 
 ## 👋 About Me
 
-I am a **Python developer** focused on building practical AI systems, backend APIs, and computer vision pipelines.
-
-My interests include **community detection algorithms**, **deep learning**, and **intelligent APIs**, with a focus on turning research ideas into usable tools and dashboards.
-
-Currently, I am exploring Galaxy-based Search Algorithms, FastAPI applications, and real-world computer vision projects.
-
----
-
-## 🧠 How I Work
-
-- 🔎 **Research-driven:** studying algorithms and papers before turning them into working systems.
-- 💻 **Engineering-focused:** building clean APIs, dashboards, and reproducible Python projects.
-- 🚀 **Continuous learner:** exploring AI, backend frameworks, and new problem domains.
+- 👩‍💻 I'm a **Python developer** who loves turning ideas into working systems
+- 🚀 Focused on **AI**, **backend APIs**, and **computer vision**
+- 🌌 Currently exploring **Galaxy-based Search Algorithms** and intelligent FastAPI apps
+- 🌱 Always learning — algorithms, deep learning, and clean backend design
+- 💬 Ask me about **Python**, **FastAPI**, **community detection**, or **YOLO**
 
 ---
 
-## 🔬 Focus Areas
+## 🛠️ Tech Stack
 
-Community Detection • Galaxy-based Search (GbSA) • Computer Vision • FastAPI • Intelligent Assistants
+### Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,opencv,git,github,linux,vscode&perline=8" alt="Skill icons"/>
+</p>
+
+### Tools I use a lot
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv3-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ## ⭐ Featured Projects
 
-### 🔬 AI & Algorithm Projects
-
-### 🌌 [Galaxy-based Search Community](https://github.com/hanyehkhl/galaxy-based-search-community)
-
-A **Galaxy-based Search Algorithm (GbSA)** project for community detection, featuring a FastAPI dashboard, an OpenAI-compatible LLM assistant, and multi-agent autotune.
-
-**Concepts:** GbSA • Community Detection • FastAPI • LLM Assistant • Multi-Agent Systems
-
----
-
-### 🧩 [GbSA Community Detection](https://github.com/hanyehkhl/gbsa-community-detection)
-
-Community detection with Galaxy-based Search Algorithm — includes a FastAPI dashboard, LLM assistant, and dual-theme UI.
-
-**Technologies:** Python • FastAPI • GbSA • LLM Integration
+| Project | What it does |
+|---|---|
+| 🌌 [galaxy-based-search-community](https://github.com/hanyehkhl/galaxy-based-search-community) | GbSA for community detection + FastAPI dashboard + LLM assistant |
+| 🧩 [gbsa-community-detection](https://github.com/hanyehkhl/gbsa-community-detection) | Community detection with GbSA, dual themes, and LLM chat |
+| 🚗 [yolov3-car-counter](https://github.com/hanyehkhl/yolov3-car-counter) | Detect and count cars with YOLOv3 |
+| 🛒 [product-assistant](https://github.com/hanyehkhl/product-assistant) | Product API with AI chat, search, and recommendations |
+| 🐍 [Django_exercise](https://github.com/hanyehkhl/Django_exercise) | Hands-on Django practice for backend patterns |
 
 ---
 
-### 🚗 [YOLOv3 Car Counter](https://github.com/hanyehkhl/yolov3-car-counter)
+## 📊 GitHub Stats
 
-A computer vision project that detects and counts cars using the **YOLOv3** object detection model.
+<!-- Dark / light aware images -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hanyehkhl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hanyehkhl&show_icons=true&theme=default&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hanyehkhl&show_icons=true&theme=tokyonight&hide_border=true" alt="Hanyeh's GitHub stats"/>
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hanyehkhl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hanyehkhl&layout=compact&theme=default&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanyehkhl&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</picture>
 
-**Technologies:** Python • YOLOv3 • OpenCV • Computer Vision
+<br/>
 
----
-
-### 💻 Backend & Software Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 [Product Assistant](https://github.com/hanyehkhl/product-assistant)
-
-A smart product management API with AI chat, search, recommendations, and statistics — built with FastAPI.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🐍 [Django Exercise](https://github.com/hanyehkhl/Django_exercise)
-
-Hands-on Django practice project for learning backend web development patterns.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📘 [Python Public Example](https://github.com/hanyehkhl/python_public_example)
-
-A public Python example repository for learning and sharing core concepts.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 👤 [Profile Repo](https://github.com/hanyehkhl/hanyehkhl)
-
-GitHub profile repository — home for this README and public identity.
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hanyehkhl&theme=tokyonight&hide_border=true&background=0D1117"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=hanyehkhl&theme=default&hide_border=true"/>
+    <img height="150" src="https://streak-stats.demolab.com?user=hanyehkhl&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  </picture>
+</p>
 
 ---
 
-## 🛠️ Technical Stack
+## 🐍 Contribution Snake
 
-### 🤖 AI & Computer Vision
+<!--
+  To enable the animated snake:
+  1. In repo hanyehkhl/hanyehkhl create .github/workflows/snake.yml
+  2. Use: https://github.com/Platane/snk
+  3. Push — Actions will generate dist/github-contribution-grid-snake.svg
+  Until then, this public demo snake shows the idea:
+-->
+<p align="center">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv3-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+<details>
+<summary>⚡ How to add <strong>your own</strong> snake</summary>
+
+Create `.github/workflows/snake.yml` in your profile repo:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: hanyehkhl
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then replace the snake image URL with:
+`https://raw.githubusercontent.com/hanyehkhl/hanyehkhl/output/github-contribution-grid-snake.svg`
+
+</details>
 
 ---
 
-### 💻 Backend & APIs
+## 🧠 Currently Learning
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=fastapi&logoColor=white)
+- 🔭 Advanced community detection & metaheuristics (GbSA)
+- 🤖 LLM-powered APIs and agent-style assistants
+- 👁️ Real-time computer vision pipelines
+
+## 🎲 Fun Fact
+
+> I like building dashboards around algorithms — so research doesn't stay stuck in notebooks.
+
+## 💬 Random Quote
+
+<!-- Refreshes when GitHub caches refresh; powered by quotable -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote"/>
 
 ---
 
-### ⚙️ Tools & Workflow
+## 📫 Let's Connect
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <a href="https://github.com/hanyehkhl"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hanieh-khaleoghli-70453619a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
----
-
-## 💡 Philosophy
-
-I believe useful software comes from combining solid algorithms, clean engineering, and continuous experimentation.
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216656967-625b2a52-e638-4c21-a8ae-180560386f96.gif" width="160" />
-<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="160"/>
-<img src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" width="160"/>
-<img src="https://user-images.githubusercontent.com/74038190/216655855-e00c1861-e964-4b4f-90ae-2592cad7b272.gif" width="160"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="footer"/>
+</p>
