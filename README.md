@@ -5,7 +5,7 @@ AI Researcher · Backend & AI Engineer · LLMs · RAG · Deep Learning
 I am a developer and researcher building practical AI systems around **LLMs**, **RAG**, and **deep learning**.  
 My work focuses on connecting models to real data — files, documents, and images — through clean APIs, strong validation, and reproducible experiments.
 
-Currently focused on **FastAPI**, **Pydantic**, **RAG pipelines**, and **LLM-powered assistants**, while preparing applications for **fully funded PhD positions** in Artificial Intelligence (starting 2027/2028).
+Currently focused on **FastAPI**, **Pydantic**, **RAG pipelines**, and **LLM-powered assistants**, while preparing applications for **fully funded PhD positions** in Artificial Intelligence\.
 
 <p align="center">
   <a href="https://github.com/hanyehkhl"><img src="https://img.shields.io/badge/GitHub-hanyehkhl-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
